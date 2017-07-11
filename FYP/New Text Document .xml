@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<user>
+    <username>testuser</username>
+    <password>p4ssword</password>
+    <name>Test User</name>
+    <email>test@localhost.de</email>
+    <properties>
+        <property key="keyname" value="value"/>
+        <property key="anotherkey" value="value"/>
+    </properties>
+</user>
