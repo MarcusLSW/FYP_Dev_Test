@@ -1,104 +1,107 @@
-G:\Users\Marcus\Desktop\Sembcorp-FYP\FYP CodeBenders\Code\FYP_Backend\XMPPServer\XMPPServer\bin\ApplicationInsights.config
-G:\Users\Marcus\Desktop\Sembcorp-FYP\FYP CodeBenders\Code\FYP_Backend\XMPPServer\XMPPServer\bin\roslyn\csc.exe
-G:\Users\Marcus\Desktop\Sembcorp-FYP\FYP CodeBenders\Code\FYP_Backend\XMPPServer\XMPPServer\bin\roslyn\csc.exe.config
-G:\Users\Marcus\Desktop\Sembcorp-FYP\FYP CodeBenders\Code\FYP_Backend\XMPPServer\XMPPServer\bin\roslyn\csc.rsp
-G:\Users\Marcus\Desktop\Sembcorp-FYP\FYP CodeBenders\Code\FYP_Backend\XMPPServer\XMPPServer\bin\roslyn\csi.exe
-G:\Users\Marcus\Desktop\Sembcorp-FYP\FYP CodeBenders\Code\FYP_Backend\XMPPServer\XMPPServer\bin\roslyn\csi.rsp
-G:\Users\Marcus\Desktop\Sembcorp-FYP\FYP CodeBenders\Code\FYP_Backend\XMPPServer\XMPPServer\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
-G:\Users\Marcus\Desktop\Sembcorp-FYP\FYP CodeBenders\Code\FYP_Backend\XMPPServer\XMPPServer\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
-G:\Users\Marcus\Desktop\Sembcorp-FYP\FYP CodeBenders\Code\FYP_Backend\XMPPServer\XMPPServer\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
-G:\Users\Marcus\Desktop\Sembcorp-FYP\FYP CodeBenders\Code\FYP_Backend\XMPPServer\XMPPServer\bin\roslyn\Microsoft.CodeAnalysis.dll
-G:\Users\Marcus\Desktop\Sembcorp-FYP\FYP CodeBenders\Code\FYP_Backend\XMPPServer\XMPPServer\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
-G:\Users\Marcus\Desktop\Sembcorp-FYP\FYP CodeBenders\Code\FYP_Backend\XMPPServer\XMPPServer\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
-G:\Users\Marcus\Desktop\Sembcorp-FYP\FYP CodeBenders\Code\FYP_Backend\XMPPServer\XMPPServer\bin\roslyn\Microsoft.CSharp.Core.targets
-G:\Users\Marcus\Desktop\Sembcorp-FYP\FYP CodeBenders\Code\FYP_Backend\XMPPServer\XMPPServer\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
-G:\Users\Marcus\Desktop\Sembcorp-FYP\FYP CodeBenders\Code\FYP_Backend\XMPPServer\XMPPServer\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
-G:\Users\Marcus\Desktop\Sembcorp-FYP\FYP CodeBenders\Code\FYP_Backend\XMPPServer\XMPPServer\bin\roslyn\Microsoft.VisualBasic.Core.targets
-G:\Users\Marcus\Desktop\Sembcorp-FYP\FYP CodeBenders\Code\FYP_Backend\XMPPServer\XMPPServer\bin\roslyn\System.AppContext.dll
-G:\Users\Marcus\Desktop\Sembcorp-FYP\FYP CodeBenders\Code\FYP_Backend\XMPPServer\XMPPServer\bin\roslyn\System.Collections.Immutable.dll
-G:\Users\Marcus\Desktop\Sembcorp-FYP\FYP CodeBenders\Code\FYP_Backend\XMPPServer\XMPPServer\bin\roslyn\System.Diagnostics.StackTrace.dll
-G:\Users\Marcus\Desktop\Sembcorp-FYP\FYP CodeBenders\Code\FYP_Backend\XMPPServer\XMPPServer\bin\roslyn\System.IO.FileSystem.dll
-G:\Users\Marcus\Desktop\Sembcorp-FYP\FYP CodeBenders\Code\FYP_Backend\XMPPServer\XMPPServer\bin\roslyn\System.IO.FileSystem.Primitives.dll
-G:\Users\Marcus\Desktop\Sembcorp-FYP\FYP CodeBenders\Code\FYP_Backend\XMPPServer\XMPPServer\bin\roslyn\System.Reflection.Metadata.dll
-G:\Users\Marcus\Desktop\Sembcorp-FYP\FYP CodeBenders\Code\FYP_Backend\XMPPServer\XMPPServer\bin\roslyn\vbc.exe
-G:\Users\Marcus\Desktop\Sembcorp-FYP\FYP CodeBenders\Code\FYP_Backend\XMPPServer\XMPPServer\bin\roslyn\vbc.exe.config
-G:\Users\Marcus\Desktop\Sembcorp-FYP\FYP CodeBenders\Code\FYP_Backend\XMPPServer\XMPPServer\bin\roslyn\vbc.rsp
-G:\Users\Marcus\Desktop\Sembcorp-FYP\FYP CodeBenders\Code\FYP_Backend\XMPPServer\XMPPServer\bin\roslyn\VBCSCompiler.exe
-G:\Users\Marcus\Desktop\Sembcorp-FYP\FYP CodeBenders\Code\FYP_Backend\XMPPServer\XMPPServer\bin\roslyn\VBCSCompiler.exe.config
-G:\Users\Marcus\Desktop\Sembcorp-FYP\FYP CodeBenders\Code\FYP_Backend\XMPPServer\XMPPServer\bin\XMPPServer.dll.config
-G:\Users\Marcus\Desktop\Sembcorp-FYP\FYP CodeBenders\Code\FYP_Backend\XMPPServer\XMPPServer\bin\XMPPServer.dll
-G:\Users\Marcus\Desktop\Sembcorp-FYP\FYP CodeBenders\Code\FYP_Backend\XMPPServer\XMPPServer\bin\XMPPServer.pdb
-G:\Users\Marcus\Desktop\Sembcorp-FYP\FYP CodeBenders\Code\FYP_Backend\XMPPServer\XMPPServer\bin\Antlr3.Runtime.dll
-G:\Users\Marcus\Desktop\Sembcorp-FYP\FYP CodeBenders\Code\FYP_Backend\XMPPServer\XMPPServer\bin\EntityFramework.dll
-G:\Users\Marcus\Desktop\Sembcorp-FYP\FYP CodeBenders\Code\FYP_Backend\XMPPServer\XMPPServer\bin\EntityFramework.SqlServer.dll
-G:\Users\Marcus\Desktop\Sembcorp-FYP\FYP CodeBenders\Code\FYP_Backend\XMPPServer\XMPPServer\bin\Microsoft.AI.Agent.Intercept.dll
-G:\Users\Marcus\Desktop\Sembcorp-FYP\FYP CodeBenders\Code\FYP_Backend\XMPPServer\XMPPServer\bin\Microsoft.AI.DependencyCollector.dll
-G:\Users\Marcus\Desktop\Sembcorp-FYP\FYP CodeBenders\Code\FYP_Backend\XMPPServer\XMPPServer\bin\Microsoft.AI.PerfCounterCollector.dll
-G:\Users\Marcus\Desktop\Sembcorp-FYP\FYP CodeBenders\Code\FYP_Backend\XMPPServer\XMPPServer\bin\Microsoft.AI.ServerTelemetryChannel.dll
-G:\Users\Marcus\Desktop\Sembcorp-FYP\FYP CodeBenders\Code\FYP_Backend\XMPPServer\XMPPServer\bin\Microsoft.AI.Web.dll
-G:\Users\Marcus\Desktop\Sembcorp-FYP\FYP CodeBenders\Code\FYP_Backend\XMPPServer\XMPPServer\bin\Microsoft.AI.WindowsServer.dll
-G:\Users\Marcus\Desktop\Sembcorp-FYP\FYP CodeBenders\Code\FYP_Backend\XMPPServer\XMPPServer\bin\Microsoft.ApplicationInsights.dll
-G:\Users\Marcus\Desktop\Sembcorp-FYP\FYP CodeBenders\Code\FYP_Backend\XMPPServer\XMPPServer\bin\Microsoft.AspNet.Identity.Core.dll
-G:\Users\Marcus\Desktop\Sembcorp-FYP\FYP CodeBenders\Code\FYP_Backend\XMPPServer\XMPPServer\bin\Microsoft.AspNet.Identity.EntityFramework.dll
-G:\Users\Marcus\Desktop\Sembcorp-FYP\FYP CodeBenders\Code\FYP_Backend\XMPPServer\XMPPServer\bin\Microsoft.AspNet.Identity.Owin.dll
-G:\Users\Marcus\Desktop\Sembcorp-FYP\FYP CodeBenders\Code\FYP_Backend\XMPPServer\XMPPServer\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
-G:\Users\Marcus\Desktop\Sembcorp-FYP\FYP CodeBenders\Code\FYP_Backend\XMPPServer\XMPPServer\bin\Microsoft.Owin.dll
-G:\Users\Marcus\Desktop\Sembcorp-FYP\FYP CodeBenders\Code\FYP_Backend\XMPPServer\XMPPServer\bin\Microsoft.Owin.Host.SystemWeb.dll
-G:\Users\Marcus\Desktop\Sembcorp-FYP\FYP CodeBenders\Code\FYP_Backend\XMPPServer\XMPPServer\bin\Microsoft.Owin.Security.Cookies.dll
-G:\Users\Marcus\Desktop\Sembcorp-FYP\FYP CodeBenders\Code\FYP_Backend\XMPPServer\XMPPServer\bin\Microsoft.Owin.Security.dll
-G:\Users\Marcus\Desktop\Sembcorp-FYP\FYP CodeBenders\Code\FYP_Backend\XMPPServer\XMPPServer\bin\Microsoft.Owin.Security.Facebook.dll
-G:\Users\Marcus\Desktop\Sembcorp-FYP\FYP CodeBenders\Code\FYP_Backend\XMPPServer\XMPPServer\bin\Microsoft.Owin.Security.Google.dll
-G:\Users\Marcus\Desktop\Sembcorp-FYP\FYP CodeBenders\Code\FYP_Backend\XMPPServer\XMPPServer\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
-G:\Users\Marcus\Desktop\Sembcorp-FYP\FYP CodeBenders\Code\FYP_Backend\XMPPServer\XMPPServer\bin\Microsoft.Owin.Security.OAuth.dll
-G:\Users\Marcus\Desktop\Sembcorp-FYP\FYP CodeBenders\Code\FYP_Backend\XMPPServer\XMPPServer\bin\Microsoft.Owin.Security.Twitter.dll
-G:\Users\Marcus\Desktop\Sembcorp-FYP\FYP CodeBenders\Code\FYP_Backend\XMPPServer\XMPPServer\bin\Microsoft.Web.Infrastructure.dll
-G:\Users\Marcus\Desktop\Sembcorp-FYP\FYP CodeBenders\Code\FYP_Backend\XMPPServer\XMPPServer\bin\Newtonsoft.Json.dll
-G:\Users\Marcus\Desktop\Sembcorp-FYP\FYP CodeBenders\Code\FYP_Backend\XMPPServer\XMPPServer\bin\Owin.dll
-G:\Users\Marcus\Desktop\Sembcorp-FYP\FYP CodeBenders\Code\FYP_Backend\XMPPServer\XMPPServer\bin\System.Net.Http.Formatting.dll
-G:\Users\Marcus\Desktop\Sembcorp-FYP\FYP CodeBenders\Code\FYP_Backend\XMPPServer\XMPPServer\bin\System.Web.Helpers.dll
-G:\Users\Marcus\Desktop\Sembcorp-FYP\FYP CodeBenders\Code\FYP_Backend\XMPPServer\XMPPServer\bin\System.Web.Http.dll
-G:\Users\Marcus\Desktop\Sembcorp-FYP\FYP CodeBenders\Code\FYP_Backend\XMPPServer\XMPPServer\bin\System.Web.Http.Owin.dll
-G:\Users\Marcus\Desktop\Sembcorp-FYP\FYP CodeBenders\Code\FYP_Backend\XMPPServer\XMPPServer\bin\System.Web.Http.WebHost.dll
-G:\Users\Marcus\Desktop\Sembcorp-FYP\FYP CodeBenders\Code\FYP_Backend\XMPPServer\XMPPServer\bin\System.Web.Mvc.dll
-G:\Users\Marcus\Desktop\Sembcorp-FYP\FYP CodeBenders\Code\FYP_Backend\XMPPServer\XMPPServer\bin\System.Web.Optimization.dll
-G:\Users\Marcus\Desktop\Sembcorp-FYP\FYP CodeBenders\Code\FYP_Backend\XMPPServer\XMPPServer\bin\System.Web.Razor.dll
-G:\Users\Marcus\Desktop\Sembcorp-FYP\FYP CodeBenders\Code\FYP_Backend\XMPPServer\XMPPServer\bin\System.Web.WebPages.Deployment.dll
-G:\Users\Marcus\Desktop\Sembcorp-FYP\FYP CodeBenders\Code\FYP_Backend\XMPPServer\XMPPServer\bin\System.Web.WebPages.dll
-G:\Users\Marcus\Desktop\Sembcorp-FYP\FYP CodeBenders\Code\FYP_Backend\XMPPServer\XMPPServer\bin\System.Web.WebPages.Razor.dll
-G:\Users\Marcus\Desktop\Sembcorp-FYP\FYP CodeBenders\Code\FYP_Backend\XMPPServer\XMPPServer\bin\WebGrease.dll
-G:\Users\Marcus\Desktop\Sembcorp-FYP\FYP CodeBenders\Code\FYP_Backend\XMPPServer\XMPPServer\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
-G:\Users\Marcus\Desktop\Sembcorp-FYP\FYP CodeBenders\Code\FYP_Backend\XMPPServer\XMPPServer\bin\Newtonsoft.Json.xml
-G:\Users\Marcus\Desktop\Sembcorp-FYP\FYP CodeBenders\Code\FYP_Backend\XMPPServer\XMPPServer\bin\System.Net.Http.Formatting.xml
-G:\Users\Marcus\Desktop\Sembcorp-FYP\FYP CodeBenders\Code\FYP_Backend\XMPPServer\XMPPServer\bin\System.Web.Helpers.xml
-G:\Users\Marcus\Desktop\Sembcorp-FYP\FYP CodeBenders\Code\FYP_Backend\XMPPServer\XMPPServer\bin\System.Web.Http.xml
-G:\Users\Marcus\Desktop\Sembcorp-FYP\FYP CodeBenders\Code\FYP_Backend\XMPPServer\XMPPServer\bin\System.Web.Http.WebHost.xml
-G:\Users\Marcus\Desktop\Sembcorp-FYP\FYP CodeBenders\Code\FYP_Backend\XMPPServer\XMPPServer\bin\System.Web.Mvc.xml
-G:\Users\Marcus\Desktop\Sembcorp-FYP\FYP CodeBenders\Code\FYP_Backend\XMPPServer\XMPPServer\bin\System.Web.Optimization.xml
-G:\Users\Marcus\Desktop\Sembcorp-FYP\FYP CodeBenders\Code\FYP_Backend\XMPPServer\XMPPServer\bin\System.Web.Razor.xml
-G:\Users\Marcus\Desktop\Sembcorp-FYP\FYP CodeBenders\Code\FYP_Backend\XMPPServer\XMPPServer\bin\System.Web.WebPages.xml
-G:\Users\Marcus\Desktop\Sembcorp-FYP\FYP CodeBenders\Code\FYP_Backend\XMPPServer\XMPPServer\bin\System.Web.WebPages.Deployment.xml
-G:\Users\Marcus\Desktop\Sembcorp-FYP\FYP CodeBenders\Code\FYP_Backend\XMPPServer\XMPPServer\bin\System.Web.WebPages.Razor.xml
-G:\Users\Marcus\Desktop\Sembcorp-FYP\FYP CodeBenders\Code\FYP_Backend\XMPPServer\XMPPServer\bin\Antlr3.Runtime.pdb
-G:\Users\Marcus\Desktop\Sembcorp-FYP\FYP CodeBenders\Code\FYP_Backend\XMPPServer\XMPPServer\bin\EntityFramework.xml
-G:\Users\Marcus\Desktop\Sembcorp-FYP\FYP CodeBenders\Code\FYP_Backend\XMPPServer\XMPPServer\bin\EntityFramework.SqlServer.xml
-G:\Users\Marcus\Desktop\Sembcorp-FYP\FYP CodeBenders\Code\FYP_Backend\XMPPServer\XMPPServer\bin\Microsoft.AspNet.Identity.Core.xml
-G:\Users\Marcus\Desktop\Sembcorp-FYP\FYP CodeBenders\Code\FYP_Backend\XMPPServer\XMPPServer\bin\Microsoft.AspNet.Identity.Owin.xml
-G:\Users\Marcus\Desktop\Sembcorp-FYP\FYP CodeBenders\Code\FYP_Backend\XMPPServer\XMPPServer\bin\Microsoft.AspNet.Identity.EntityFramework.xml
-G:\Users\Marcus\Desktop\Sembcorp-FYP\FYP CodeBenders\Code\FYP_Backend\XMPPServer\XMPPServer\bin\Microsoft.Owin.xml
-G:\Users\Marcus\Desktop\Sembcorp-FYP\FYP CodeBenders\Code\FYP_Backend\XMPPServer\XMPPServer\bin\Microsoft.Owin.Host.SystemWeb.xml
-G:\Users\Marcus\Desktop\Sembcorp-FYP\FYP CodeBenders\Code\FYP_Backend\XMPPServer\XMPPServer\bin\Microsoft.Owin.Security.xml
-G:\Users\Marcus\Desktop\Sembcorp-FYP\FYP CodeBenders\Code\FYP_Backend\XMPPServer\XMPPServer\bin\Microsoft.Owin.Security.Facebook.xml
-G:\Users\Marcus\Desktop\Sembcorp-FYP\FYP CodeBenders\Code\FYP_Backend\XMPPServer\XMPPServer\bin\Microsoft.Owin.Security.Cookies.xml
-G:\Users\Marcus\Desktop\Sembcorp-FYP\FYP CodeBenders\Code\FYP_Backend\XMPPServer\XMPPServer\bin\Microsoft.Owin.Security.OAuth.xml
-G:\Users\Marcus\Desktop\Sembcorp-FYP\FYP CodeBenders\Code\FYP_Backend\XMPPServer\XMPPServer\bin\Microsoft.Owin.Security.Google.xml
-G:\Users\Marcus\Desktop\Sembcorp-FYP\FYP CodeBenders\Code\FYP_Backend\XMPPServer\XMPPServer\bin\Microsoft.Owin.Security.Twitter.xml
-G:\Users\Marcus\Desktop\Sembcorp-FYP\FYP CodeBenders\Code\FYP_Backend\XMPPServer\XMPPServer\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
-G:\Users\Marcus\Desktop\Sembcorp-FYP\FYP CodeBenders\Code\FYP_Backend\XMPPServer\XMPPServer\bin\System.Web.Http.Owin.xml
-G:\Users\Marcus\Desktop\Sembcorp-FYP\FYP CodeBenders\Code\FYP_Backend\XMPPServer\XMPPServer\bin\Microsoft.ApplicationInsights.xml
-G:\Users\Marcus\Desktop\Sembcorp-FYP\FYP CodeBenders\Code\FYP_Backend\XMPPServer\XMPPServer\bin\Microsoft.AI.DependencyCollector.xml
-G:\Users\Marcus\Desktop\Sembcorp-FYP\FYP CodeBenders\Code\FYP_Backend\XMPPServer\XMPPServer\bin\Microsoft.AI.ServerTelemetryChannel.xml
-G:\Users\Marcus\Desktop\Sembcorp-FYP\FYP CodeBenders\Code\FYP_Backend\XMPPServer\XMPPServer\bin\Microsoft.AI.WindowsServer.xml
-G:\Users\Marcus\Desktop\Sembcorp-FYP\FYP CodeBenders\Code\FYP_Backend\XMPPServer\XMPPServer\bin\Microsoft.AI.Web.xml
-G:\Users\Marcus\Desktop\Sembcorp-FYP\FYP CodeBenders\Code\FYP_Backend\XMPPServer\XMPPServer\obj\Debug\XMPPServer.csprojResolveAssemblyReference.cache
-G:\Users\Marcus\Desktop\Sembcorp-FYP\FYP CodeBenders\Code\FYP_Backend\XMPPServer\XMPPServer\obj\Debug\XMPPServer.dll
-G:\Users\Marcus\Desktop\Sembcorp-FYP\FYP CodeBenders\Code\FYP_Backend\XMPPServer\XMPPServer\obj\Debug\XMPPServer.pdb
+F:\FYP_Dev_Test\XMPPServer\XMPPServer\obj\Debug\XMPPServer.csprojResolveAssemblyReference.cache
+F:\FYP_Dev_Test\XMPPServer\XMPPServer\bin\ApplicationInsights.config
+F:\FYP_Dev_Test\XMPPServer\XMPPServer\bin\roslyn\csc.exe
+F:\FYP_Dev_Test\XMPPServer\XMPPServer\bin\roslyn\csc.exe.config
+F:\FYP_Dev_Test\XMPPServer\XMPPServer\bin\roslyn\csc.rsp
+F:\FYP_Dev_Test\XMPPServer\XMPPServer\bin\roslyn\csi.exe
+F:\FYP_Dev_Test\XMPPServer\XMPPServer\bin\roslyn\csi.rsp
+F:\FYP_Dev_Test\XMPPServer\XMPPServer\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+F:\FYP_Dev_Test\XMPPServer\XMPPServer\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+F:\FYP_Dev_Test\XMPPServer\XMPPServer\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+F:\FYP_Dev_Test\XMPPServer\XMPPServer\bin\roslyn\Microsoft.CodeAnalysis.dll
+F:\FYP_Dev_Test\XMPPServer\XMPPServer\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+F:\FYP_Dev_Test\XMPPServer\XMPPServer\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+F:\FYP_Dev_Test\XMPPServer\XMPPServer\bin\roslyn\Microsoft.CSharp.Core.targets
+F:\FYP_Dev_Test\XMPPServer\XMPPServer\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+F:\FYP_Dev_Test\XMPPServer\XMPPServer\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+F:\FYP_Dev_Test\XMPPServer\XMPPServer\bin\roslyn\Microsoft.VisualBasic.Core.targets
+F:\FYP_Dev_Test\XMPPServer\XMPPServer\bin\roslyn\System.AppContext.dll
+F:\FYP_Dev_Test\XMPPServer\XMPPServer\bin\roslyn\System.Collections.Immutable.dll
+F:\FYP_Dev_Test\XMPPServer\XMPPServer\bin\roslyn\System.Diagnostics.StackTrace.dll
+F:\FYP_Dev_Test\XMPPServer\XMPPServer\bin\roslyn\System.IO.FileSystem.dll
+F:\FYP_Dev_Test\XMPPServer\XMPPServer\bin\roslyn\System.IO.FileSystem.Primitives.dll
+F:\FYP_Dev_Test\XMPPServer\XMPPServer\bin\roslyn\System.Reflection.Metadata.dll
+F:\FYP_Dev_Test\XMPPServer\XMPPServer\bin\roslyn\vbc.exe
+F:\FYP_Dev_Test\XMPPServer\XMPPServer\bin\roslyn\vbc.exe.config
+F:\FYP_Dev_Test\XMPPServer\XMPPServer\bin\roslyn\vbc.rsp
+F:\FYP_Dev_Test\XMPPServer\XMPPServer\bin\roslyn\VBCSCompiler.exe
+F:\FYP_Dev_Test\XMPPServer\XMPPServer\bin\roslyn\VBCSCompiler.exe.config
+F:\FYP_Dev_Test\XMPPServer\XMPPServer\bin\XMPPServer.dll.config
+F:\FYP_Dev_Test\XMPPServer\XMPPServer\bin\XMPPServer.dll
+F:\FYP_Dev_Test\XMPPServer\XMPPServer\bin\XMPPServer.pdb
+F:\FYP_Dev_Test\XMPPServer\XMPPServer\bin\Antlr3.Runtime.dll
+F:\FYP_Dev_Test\XMPPServer\XMPPServer\bin\EntityFramework.dll
+F:\FYP_Dev_Test\XMPPServer\XMPPServer\bin\EntityFramework.SqlServer.dll
+F:\FYP_Dev_Test\XMPPServer\XMPPServer\bin\jabber-net.dll
+F:\FYP_Dev_Test\XMPPServer\XMPPServer\bin\Microsoft.AI.Agent.Intercept.dll
+F:\FYP_Dev_Test\XMPPServer\XMPPServer\bin\Microsoft.AI.DependencyCollector.dll
+F:\FYP_Dev_Test\XMPPServer\XMPPServer\bin\Microsoft.AI.PerfCounterCollector.dll
+F:\FYP_Dev_Test\XMPPServer\XMPPServer\bin\Microsoft.AI.ServerTelemetryChannel.dll
+F:\FYP_Dev_Test\XMPPServer\XMPPServer\bin\Microsoft.AI.Web.dll
+F:\FYP_Dev_Test\XMPPServer\XMPPServer\bin\Microsoft.AI.WindowsServer.dll
+F:\FYP_Dev_Test\XMPPServer\XMPPServer\bin\Microsoft.ApplicationInsights.dll
+F:\FYP_Dev_Test\XMPPServer\XMPPServer\bin\Microsoft.AspNet.Identity.Core.dll
+F:\FYP_Dev_Test\XMPPServer\XMPPServer\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+F:\FYP_Dev_Test\XMPPServer\XMPPServer\bin\Microsoft.AspNet.Identity.Owin.dll
+F:\FYP_Dev_Test\XMPPServer\XMPPServer\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+F:\FYP_Dev_Test\XMPPServer\XMPPServer\bin\Microsoft.Owin.dll
+F:\FYP_Dev_Test\XMPPServer\XMPPServer\bin\Microsoft.Owin.Host.SystemWeb.dll
+F:\FYP_Dev_Test\XMPPServer\XMPPServer\bin\Microsoft.Owin.Security.Cookies.dll
+F:\FYP_Dev_Test\XMPPServer\XMPPServer\bin\Microsoft.Owin.Security.dll
+F:\FYP_Dev_Test\XMPPServer\XMPPServer\bin\Microsoft.Owin.Security.Facebook.dll
+F:\FYP_Dev_Test\XMPPServer\XMPPServer\bin\Microsoft.Owin.Security.Google.dll
+F:\FYP_Dev_Test\XMPPServer\XMPPServer\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+F:\FYP_Dev_Test\XMPPServer\XMPPServer\bin\Microsoft.Owin.Security.OAuth.dll
+F:\FYP_Dev_Test\XMPPServer\XMPPServer\bin\Microsoft.Owin.Security.Twitter.dll
+F:\FYP_Dev_Test\XMPPServer\XMPPServer\bin\Microsoft.Web.Infrastructure.dll
+F:\FYP_Dev_Test\XMPPServer\XMPPServer\bin\netlib.Dns.dll
+F:\FYP_Dev_Test\XMPPServer\XMPPServer\bin\Newtonsoft.Json.dll
+F:\FYP_Dev_Test\XMPPServer\XMPPServer\bin\Owin.dll
+F:\FYP_Dev_Test\XMPPServer\XMPPServer\bin\System.Net.Http.Formatting.dll
+F:\FYP_Dev_Test\XMPPServer\XMPPServer\bin\System.Web.Helpers.dll
+F:\FYP_Dev_Test\XMPPServer\XMPPServer\bin\System.Web.Http.dll
+F:\FYP_Dev_Test\XMPPServer\XMPPServer\bin\System.Web.Http.Owin.dll
+F:\FYP_Dev_Test\XMPPServer\XMPPServer\bin\System.Web.Http.WebHost.dll
+F:\FYP_Dev_Test\XMPPServer\XMPPServer\bin\System.Web.Mvc.dll
+F:\FYP_Dev_Test\XMPPServer\XMPPServer\bin\System.Web.Optimization.dll
+F:\FYP_Dev_Test\XMPPServer\XMPPServer\bin\System.Web.Razor.dll
+F:\FYP_Dev_Test\XMPPServer\XMPPServer\bin\System.Web.WebPages.Deployment.dll
+F:\FYP_Dev_Test\XMPPServer\XMPPServer\bin\System.Web.WebPages.dll
+F:\FYP_Dev_Test\XMPPServer\XMPPServer\bin\System.Web.WebPages.Razor.dll
+F:\FYP_Dev_Test\XMPPServer\XMPPServer\bin\WebGrease.dll
+F:\FYP_Dev_Test\XMPPServer\XMPPServer\bin\zlib.net.dll
+F:\FYP_Dev_Test\XMPPServer\XMPPServer\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+F:\FYP_Dev_Test\XMPPServer\XMPPServer\bin\Newtonsoft.Json.xml
+F:\FYP_Dev_Test\XMPPServer\XMPPServer\bin\System.Net.Http.Formatting.xml
+F:\FYP_Dev_Test\XMPPServer\XMPPServer\bin\System.Web.Helpers.xml
+F:\FYP_Dev_Test\XMPPServer\XMPPServer\bin\System.Web.Http.xml
+F:\FYP_Dev_Test\XMPPServer\XMPPServer\bin\System.Web.Http.WebHost.xml
+F:\FYP_Dev_Test\XMPPServer\XMPPServer\bin\System.Web.Mvc.xml
+F:\FYP_Dev_Test\XMPPServer\XMPPServer\bin\System.Web.Optimization.xml
+F:\FYP_Dev_Test\XMPPServer\XMPPServer\bin\System.Web.Razor.xml
+F:\FYP_Dev_Test\XMPPServer\XMPPServer\bin\System.Web.WebPages.xml
+F:\FYP_Dev_Test\XMPPServer\XMPPServer\bin\System.Web.WebPages.Deployment.xml
+F:\FYP_Dev_Test\XMPPServer\XMPPServer\bin\System.Web.WebPages.Razor.xml
+F:\FYP_Dev_Test\XMPPServer\XMPPServer\bin\Antlr3.Runtime.pdb
+F:\FYP_Dev_Test\XMPPServer\XMPPServer\bin\EntityFramework.xml
+F:\FYP_Dev_Test\XMPPServer\XMPPServer\bin\EntityFramework.SqlServer.xml
+F:\FYP_Dev_Test\XMPPServer\XMPPServer\bin\Microsoft.AspNet.Identity.Core.xml
+F:\FYP_Dev_Test\XMPPServer\XMPPServer\bin\Microsoft.AspNet.Identity.Owin.xml
+F:\FYP_Dev_Test\XMPPServer\XMPPServer\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+F:\FYP_Dev_Test\XMPPServer\XMPPServer\bin\Microsoft.Owin.xml
+F:\FYP_Dev_Test\XMPPServer\XMPPServer\bin\Microsoft.Owin.Host.SystemWeb.xml
+F:\FYP_Dev_Test\XMPPServer\XMPPServer\bin\Microsoft.Owin.Security.xml
+F:\FYP_Dev_Test\XMPPServer\XMPPServer\bin\Microsoft.Owin.Security.Facebook.xml
+F:\FYP_Dev_Test\XMPPServer\XMPPServer\bin\Microsoft.Owin.Security.Cookies.xml
+F:\FYP_Dev_Test\XMPPServer\XMPPServer\bin\Microsoft.Owin.Security.OAuth.xml
+F:\FYP_Dev_Test\XMPPServer\XMPPServer\bin\Microsoft.Owin.Security.Google.xml
+F:\FYP_Dev_Test\XMPPServer\XMPPServer\bin\Microsoft.Owin.Security.Twitter.xml
+F:\FYP_Dev_Test\XMPPServer\XMPPServer\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+F:\FYP_Dev_Test\XMPPServer\XMPPServer\bin\System.Web.Http.Owin.xml
+F:\FYP_Dev_Test\XMPPServer\XMPPServer\bin\Microsoft.ApplicationInsights.xml
+F:\FYP_Dev_Test\XMPPServer\XMPPServer\bin\Microsoft.AI.DependencyCollector.xml
+F:\FYP_Dev_Test\XMPPServer\XMPPServer\bin\Microsoft.AI.ServerTelemetryChannel.xml
+F:\FYP_Dev_Test\XMPPServer\XMPPServer\bin\Microsoft.AI.WindowsServer.xml
+F:\FYP_Dev_Test\XMPPServer\XMPPServer\bin\Microsoft.AI.Web.xml
+F:\FYP_Dev_Test\XMPPServer\XMPPServer\obj\Debug\XMPPServer.dll
+F:\FYP_Dev_Test\XMPPServer\XMPPServer\obj\Debug\XMPPServer.pdb
