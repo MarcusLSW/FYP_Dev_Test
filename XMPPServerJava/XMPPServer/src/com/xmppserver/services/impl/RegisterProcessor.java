@@ -1,8 +1,8 @@
-package services.impl;
+package com.xmppserver.services.impl;
 
 
-import Entities.CcsInMessage;
-import services.PayloadProcessor;
+import com.xmppserver.model.entities.CcsInMessage;
+import com.xmppserver.services.PayloadProcessor;
 
 /**
  * Handles a user registration request

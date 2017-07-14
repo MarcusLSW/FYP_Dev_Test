@@ -15,6 +15,6 @@
     </servlet>
     <servlet-mapping>
         <servlet-name>WSServlet</servlet-name>
-        <url-pattern>/services/*</url-pattern>
+        <url-pattern>/com.xmppserver.services/*</url-pattern>
     </servlet-mapping>
 </web-app>

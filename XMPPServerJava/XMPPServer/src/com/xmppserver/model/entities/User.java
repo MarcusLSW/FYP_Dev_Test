@@ -1,6 +1,7 @@
-package Entities;
+package com.xmppserver.model.entities;
 
 import java.util.ArrayList;
+import java.util.UUID;
 
 /**
  * Created by Marcus on 13-Jul-17.
@@ -14,9 +15,9 @@ public class User {
     private boolean isMale;
 
     //For all regId for user's phones
-    private ArrayList<String> regId;
+    private ArrayList<UUID> regId;
 
-    public User(String email, String name, int contactNum, String regionCode, boolean isAdmin, boolean isMale, ArrayList<String> regId) {
+    public User(String email, String name, int contactNum, String regionCode, boolean isAdmin, boolean isMale, ArrayList<UUID> regId) {
         this.email = email;
         this.name = name;
         this.contactNum = contactNum;
@@ -50,7 +51,7 @@ public class User {
         return isMale;
     }
 
-    public ArrayList<String> getRegId() {
+    public ArrayList<UUID> getRegId() {
         return regId;
     }
 
@@ -78,11 +79,11 @@ public class User {
         isMale = male;
     }
 
-    public void setRegId(ArrayList<String> regId) {
+    public void setRegId(ArrayList<UUID> regId) {
         this.regId = regId;
     }
 
-    public void addRegId(String regId){
+    public void addRegId(UUID regId){
         this.regId.add(regId);
     }
 

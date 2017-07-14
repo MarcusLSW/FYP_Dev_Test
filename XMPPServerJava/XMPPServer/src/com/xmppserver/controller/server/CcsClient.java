@@ -1,4 +1,4 @@
-package server;
+package com.xmppserver.controller.server;
 
 import java.io.IOException;
 import java.util.HashMap;
@@ -9,10 +9,11 @@ import java.util.logging.Logger;
 
 import javax.net.ssl.SSLSocketFactory;
 
-import Entities.CcsInMessage;
-import Entities.CcsOutMessage;
+import com.xmppserver.model.entities.CcsInMessage;
+import com.xmppserver.model.entities.CcsOutMessage;
 import com.google.gson.Gson;
 import com.google.gson.JsonSyntaxException;
+import com.xmppserver.util.MessageHelper;
 import org.jivesoftware.smack.*;
 import org.jivesoftware.smack.SmackException.NotConnectedException;
 import org.jivesoftware.smack.filter.StanzaFilter;
@@ -25,12 +26,12 @@ import org.jivesoftware.smack.tcp.XMPPTCPConnectionConfiguration;
 import org.jivesoftware.smackx.ping.PingManager;
 import org.xmlpull.v1.XmlPullParser;
 import org.xmlpull.v1.XmlPullParserException;
-import services.PayloadProcessor;
-import util.Util;
+import com.xmppserver.services.PayloadProcessor;
+import com.xmppserver.util.Util;
 
 
 /**
- * Sample Smack implementation of a client for FCM Cloud Connection Server. Most of it has been taken more or less
+ * Sample Smack implementation of a client for FCM Cloud connection Server. Most of it has been taken more or less
  * verbatim from Google's documentation: https://firebase.google.com/docs/cloud-messaging/xmpp-server-ref
  */
 public class CcsClient implements StanzaListener {
@@ -80,14 +81,14 @@ public class CcsClient implements StanzaListener {
 	}
 
 	/**
-	 * Connects to FCM Cloud Connection Server using the supplied credentials
+	 * Connects to FCM Cloud connection Server using the supplied credentials
 	 */
 	public void connect() throws XMPPException, SmackException, IOException, InterruptedException {
 		XMPPTCPConnection.setUseStreamManagementResumptionDefault(true);
 		XMPPTCPConnection.setUseStreamManagementDefault(true);
 
 		XMPPTCPConnectionConfiguration.Builder config = XMPPTCPConnectionConfiguration.builder();
-		config.setXmppDomain("FCM XMPP Client Connection Server");
+		config.setXmppDomain("FCM XMPP Client connection Server");
 		config.setHost(Util.FCM_SERVER);
 		config.setPort(Util.FCM_PORT);
 		config.setSecurityMode(ConnectionConfiguration.SecurityMode.ifpossible);
@@ -129,13 +130,13 @@ public class CcsClient implements StanzaListener {
 
 			@Override
 			public void connectionClosedOnError(Exception e) {
-				logger.log(Level.INFO, "Connection closed on error");
+				logger.log(Level.INFO, "connection closed on error");
 				// TODO: handle the connection closed on error
 			}
 
 			@Override
 			public void connectionClosed() {
-				logger.log(Level.INFO, "Connection closed");
+				logger.log(Level.INFO, "connection closed");
 				// TODO: handle the connection closed
 			}
 
@@ -147,7 +148,7 @@ public class CcsClient implements StanzaListener {
 
 			@Override
 			public void connected(XMPPConnection arg0) {
-				logger.log(Level.INFO, "Connection established");
+				logger.log(Level.INFO, "connection established");
 				// TODO: handle the connection
 			}
 		});
@@ -325,7 +326,7 @@ public class CcsClient implements StanzaListener {
 
 	private void handleConnectionDrainingFailure() {
 		// TODO: handle the connection draining failure. Force reconnect?
-		logger.log(Level.INFO, "FCM Connection is draining! Initiating reconnection ...");
+		logger.log(Level.INFO, "FCM connection is draining! Initiating reconnection ...");
 	}
 
 	/**

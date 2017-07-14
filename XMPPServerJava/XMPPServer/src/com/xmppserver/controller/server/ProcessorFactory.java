@@ -1,11 +1,11 @@
-package server;
+package com.xmppserver.controller.server;
 
 
-import services.PayloadProcessor;
-import services.impl.EchoProcessor;
-import services.impl.MessageProcessor;
-import services.impl.RegisterProcessor;
-import util.Util;
+import com.xmppserver.services.PayloadProcessor;
+import com.xmppserver.services.impl.EchoProcessor;
+import com.xmppserver.services.impl.MessageProcessor;
+import com.xmppserver.services.impl.RegisterProcessor;
+import com.xmppserver.util.Util;
 
 /**
  * Manages the creation of different payload processors based on the desired

@@ -1,13 +1,13 @@
-package server;
+package com.xmppserver.controller.server;
 
 
 import org.jivesoftware.smack.packet.ExtensionElement;
 import org.jivesoftware.smack.packet.Message;
 import org.jivesoftware.smack.packet.Stanza;
-import util.Util;
+import com.xmppserver.util.Util;
 
 /**
- * XMPP Packet Extension for GCM Cloud Connection Server
+ * XMPP Packet Extension for GCM Cloud connection Server
  */
 public class GcmPacketExtension implements ExtensionElement {
 

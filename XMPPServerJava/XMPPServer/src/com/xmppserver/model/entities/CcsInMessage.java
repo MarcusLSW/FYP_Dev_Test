@@ -1,4 +1,4 @@
-package Entities;
+package com.xmppserver.model.entities;
 
 import java.util.Map;
 

@@ -1,8 +1,8 @@
-package server;
+package com.xmppserver.util;
 
 
-import Entities.CcsInMessage;
-import Entities.CcsOutMessage;
+import com.xmppserver.model.entities.CcsInMessage;
+import com.xmppserver.model.entities.CcsOutMessage;
 import com.google.gson.Gson;
 
 import java.util.HashMap;

@@ -1,12 +1,12 @@
-package services.impl;
+package com.xmppserver.services.impl;
 
 
-import Entities.CcsInMessage;
-import Entities.CcsOutMessage;
-import server.CcsClient;
-import server.MessageHelper;
-import services.PayloadProcessor;
-import util.Util;
+import com.xmppserver.model.entities.CcsInMessage;
+import com.xmppserver.model.entities.CcsOutMessage;
+import com.xmppserver.controller.server.CcsClient;
+import com.xmppserver.util.MessageHelper;
+import com.xmppserver.services.PayloadProcessor;
+import com.xmppserver.util.Util;
 
 /**
  * Handles an echo request

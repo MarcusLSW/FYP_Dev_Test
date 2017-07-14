@@ -1,26 +1,29 @@
-package Entities;
+package com.xmppserver.model.entities;
 
 import java.util.ArrayList;
+import java.util.UUID;
 
 /**
  * Created by Marcus on 13-Jul-17.
  */
 public class GroupChat {
-    private ArrayList<User> members;
+    private ArrayList<String> members;
     private String name;
     private boolean isActive;
+    private String groupId;
 
-    public GroupChat(ArrayList<User> members, String name, boolean isActive) {
+    public GroupChat(ArrayList<String> members, String name, boolean isActive, String groupId) {
         this.members = members;
         this.name = name;
         this.isActive = isActive;
+        this.groupId = groupId;
     }
 
-    public ArrayList<User> getMembers() {
+    public ArrayList<String> getMembers() {
         return members;
     }
 
-    public void setMembers(ArrayList<User> members) {
+    public void setMembers(ArrayList<String> members) {
         this.members = members;
     }
 
@@ -40,17 +43,25 @@ public class GroupChat {
         isActive = active;
     }
 
-    public void addMember(User u){
+    public void addMember(String u){
         members.add(u);
     }
 
-    public void addMember(User...users){
-        for (User u : users){
+    public void addMember(String...users){
+        for (String u : users){
             members.add(u);
         }
     }
 
     public void removeMember(User u){
         members.remove(u);
+    }
+
+    public String getUuid() {
+        return groupId;
+    }
+
+    public void setUuid(String groupId) {
+        this.groupId = groupId;
     }
 }
