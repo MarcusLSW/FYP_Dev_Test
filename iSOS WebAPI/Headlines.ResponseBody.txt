@@ -1,0 +1,259 @@
+{
+  "modified": "2017-03-13T08:20:49Z",
+  "regions": [
+    {
+      "id": 12,
+      "lang": "en",
+      "name": "Europe & CIS",
+      "update": {
+        "href": "http://www.travelsecurity.com/Page.aspx?pg=24",
+        "title": "Measles clusters across Europe",
+        "summary": "Sporadic cases of measles have caused localised outbreaks in a number of countries including Austria, Belgium, France, Germany, Hungary, Italy, Spain and Sweden. Most cases have been in unvaccinated individuals. Measles is caused by a highly contagious virus that spreads from person-to-person via infectious droplets. Typical symptoms include fever, cough and a characteristic rash. Serious to fatal complications can occur - particularly when very young children, adults or pregnant women are infected. Travellers are advised to ensure they are immune to the disease.",
+        "modified": "2017-03-13T07:59:57Z",
+        "category": "Medical Alert : Disease Outbreak; "
+      }
+    }
+  ],
+  "countries": [
+    {
+      "country": "BH",
+      "lang": "en",
+      "name": "Bahrain",
+      "update": {
+        "href": "http://www.travelsecurity.com/Page.aspx?pg=684",
+        "title": "Urban centres: Avoid vicinity of planned protests until 14 March",
+        "summary": "Members in Bahrain until 14 March should avoid the vicinity of planned protests as a precaution. There have been calls for unauthorised strikes and protests in predominantly Shia Muslim villages across the country on 13-14 March.",
+        "modified": "2017-03-13T00:06:14Z",
+        "category": "Travel : Protest, rallies and associated violence; "
+      }
+    },
+    {
+      "country": "BY",
+      "lang": "en",
+      "name": "Belarus",
+      "update": {
+        "href": "http://www.travelsecurity.com/Page.aspx?pg=735",
+        "title": "Urban centres: Expect, avoid further protests over controversial tax",
+        "summary": "Members in urban centres should expect and avoid further protests to demand that the government annul a tax on those not in full-time employment. Related protests were held on 12 March in Babruisk (Mogilev region), Brest (Brest region), Orsha (Vitebsk region) and Rogachev (Gomel region). Although President Alexander Lukashenko announced on 9 March that the controversial levy would be suspended for 2017, activists have threatened to hold further protests if the authorities do not take decisive steps by 17 March to permanently cancel the so-called 'social parasite' tax.",
+        "modified": "2017-03-13T05:28:33Z",
+        "category": "Travel : Protest, rallies and associated violence; "
+      }
+    },
+    {
+      "country": "BO",
+      "lang": "en",
+      "name": "Bolivia",
+      "update": {
+        "href": "http://www.travelsecurity.com/Page.aspx?pg=837",
+        "title": "Anticipate, avoid rallies by labour unions, teachers on 13 March as precaution",
+        "summary": "Members should anticipate and avoid rallies planned by labour unions and teachers on 13 March as a precaution. Union representatives will begin their rally at Cementerio Generalin the administrative capital La Paz (La Paz department), while the teachers will depart from Caracollo (Oruro department); both demonstrations will commence at 10.00 (local time). The protesters are demanding the government's attention on several issues, including tariffs and salaries.",
+        "modified": "2017-03-13T03:04:08Z",
+        "category": "Travel : Protest, rallies and associated violence; "
+      }
+    },
+    {
+      "country": "BO",
+      "lang": "en",
+      "name": "Bolivia",
+      "update": {
+        "href": "http://www.travelsecurity.com/Page.aspx?pg=837",
+        "title": "Chuquisaca department: Anticipate disruption during 24-hour strike by civic groups on 14 March ",
+        "summary": "Members in Chuquisaca department on 14 March should maintain flexible itineraries accounting for potential disruption during a 24-hour strike by the Civic Committee for the Defence of the Interests of Chuquisaca (Codeinca) over various demands revolving around regional development. Activists intend to block roads, including the main streets and entrances of Sucre, the national constitutional capital and department capital, and to rally at the city's Plaza 25 de Mayo.",
+        "modified": "2017-03-13T00:06:17Z",
+        "category": "Travel : Travel disruption; Travel : Protest, rallies and associated violence; "
+      }
+    },
+    {
+      "country": "BO",
+      "lang": "en",
+      "name": "Bolivia",
+      "update": {
+        "href": "http://www.travelsecurity.com/Page.aspx?pg=837",
+        "title": "Achacachi: Avoid protests associated with indefinite strike from 13 March due to possible unrest",
+        "summary": "Members in Achacachi (La Paz department) should avoid all protests associated with an indefinite strike from 13 March. The action, which will involve roadblocks, is being organised by the Federation of Town Councils (Fejuve) to demand the resignation of the local mayor. Unrest is possible during the planned strike and until the issue is resolved; related violence may involve clashes between rival demonstrators or between protesters and the police, posing incidental risks to bystanders. Precedents indicate that protesters may erect roadblocks on important routes, including Route 16 during demonstrations, causing disruption.",
+        "modified": "2017-03-13T00:06:11Z",
+        "category": "Travel : Protest, rallies and associated violence; "
+      }
+    },
+    {
+      "country": "DO",
+      "lang": "en",
+      "name": "Dominican Republic",
+      "update": {
+        "href": "http://www.travelsecurity.com/Page.aspx?pg=1381",
+        "title": "Santo Domingo, other cities: Avoid nationwide protests on 13-19 March over corruption, impunity",
+        "summary": "Members travelling to the Dominican Republic between 13 and 19 March should expect disruption from nationwide protests calling for an end to corruption and impunity. Demonstrators from the grassroots Green March movement will set out on 13 March from three main areas: Mao (Valverde province), Barahona (Barahona province) and Higuey (La Altagracia province). They will then converge on the capital Santo Domingo for a 19 March protest outside the Palacio Nacional. Earlier protests took place after reports that public officials took bribes from a Brazilian construction company. With the movement still gaining momentum a high turnout is likely for the upcoming demonstrations.",
+        "modified": "2017-03-13T00:06:13Z",
+        "category": "Travel : Travel disruption; Travel : Protest, rallies and associated violence; "
+      }
+    },
+    {
+      "country": "FI",
+      "lang": "en",
+      "name": "Finland",
+      "update": {
+        "href": "http://www.travelsecurity.com/Page.aspx?pg=1568",
+        "title": "Aviation workers' strike on 14 March cancelled; reconfirm flights as precaution",
+        "summary": "Workers affiliated to the Finnish Aviation Union (IAU) have cancelled a strike planned for 14 March over a pay dispute. Negotiations are scheduled for 13 March; further industrial action could be planned depending on their outcome. National carrier Finnair has said that one or two flights may still be cancelled on 14 March due to advance rescheduling of staff rotas.",
+        "modified": "2017-03-13T08:06:30Z",
+        "category": "Travel : Travel disruption; Travel : Protest, rallies and associated violence; "
+      }
+    },
+    {
+      "country": "GA",
+      "lang": "en",
+      "name": "Gabon",
+      "update": {
+        "href": "http://www.travelsecurity.com/Page.aspx?pg=1619",
+        "title": "Urban centres: Avoid student protests on 13 March against educational crisis",
+        "summary": "Members in the capital Libreville, Port-Gentil (Ogooue-Maritime province), Franceville (Haut-Ogooue province) and other provincial capital cities should anticipate and avoid planned student protests on 13 March as a precaution. Students plan to demonstrate against the ongoing educational crisis, teachers' strikes and specifically the upcoming end-of-year exams, which are still scheduled to take place despite no classes having actually been held. A related rally was held on 9 March in Franceville and passed off generally peacefully. Localised disruption in affected cities on the day should be expected.",
+        "modified": "2017-03-13T00:06:10Z",
+        "category": "Travel : Protest, rallies and associated violence; "
+      }
+    },
+    {
+      "country": "DE",
+      "lang": "en",
+      "name": "Germany",
+      "update": {
+        "href": "http://www.travelsecurity.com/Page.aspx?pg=1670",
+        "title": "Berlin: Ground staff at Tegel, Schonefeld airports to strike on 13 March; anticipate disruption",
+        "summary": "Members travelling through the capital Berlin's Tegel (TXL) or Schonefeld (SXF) airports on 13 March should anticipate disruption to flight schedules due to a planned strike by ground staff. The 25-hour strike will begin at 04.00 (local time) on 13 March and end at 05.00 the next day. Ground staff from the Verdi union are demanding better working conditions and higher salaries. Flights may be severely disrupted or cancelled; a related industrial action on 10 March grounded almost all flights.",
+        "modified": "2017-03-13T00:06:12Z",
+        "category": "Travel : Travel disruption; Travel : Protest, rallies and associated violence; "
+      }
+    },
+    {
+      "country": "IN",
+      "lang": "en",
+      "name": "India",
+      "update": {
+        "href": "http://www.travelsecurity.com/Page.aspx?pg=1908",
+        "title": "Expect disruption to travel, business activity on 13 March during Hindu festival of Holi ",
+        "summary": "Members in and travelling to India should expect disruption to travel and business activity due to the Hindu festival of Holi (commonly referred to as the 'festival of colours'). The festival will be celebrated on 13 March throughout the country, particularly in the northern and western states, including the capital Delhi. Members are advised to pre-arrange transport options and reconfirm bookings due to limited transport services during the festive period. Travellers should also exercise sensible safety precautions and have situational awareness during the festival.",
+        "modified": "2017-03-13T00:30:20Z",
+        "category": "Travel : Travel disruption; Travel : key dates; "
+      }
+    },
+    {
+      "country": "ID",
+      "lang": "en",
+      "name": "Indonesia",
+      "update": {
+        "href": "http://www.travelsecurity.com/Page.aspx?pg=1925",
+        "title": "Arrest of suspected Islamist militants, foiled plot in Central Sulawesi underscore persistent travel risks from terrorism",
+        "summary": "The National Police's counter-terrorism unit, Densus 88 on 10 March arrested nine suspected militants and seized bomb-making materials in Tolitoli regency (Central Sulawesi province).The suspects were reportedly planning a bomb attack at the Parigi Police headquarters as well as against police officers guarding a local bank in Palu city (Central Sulawesi). The development highlights the persistent threat posed by militancy in the country and the need for members to remain vigilant and report any suspicious activity to the authorities.",
+        "modified": "2017-03-13T04:33:00Z",
+        "category": "Travel : Political violence; "
+      }
+    },
+    {
+      "country": "MV",
+      "lang": "en",
+      "name": "Maldives",
+      "update": {
+        "href": "http://www.travelsecurity.com/Page.aspx?pg=2435",
+        "title": "Male: Monitor developments, avoid protests linked to alleged sale of atoll",
+        "summary": "Members in the capital Male should avoid all protests in the coming days against the government's alleged sale of Faafu atoll to Saudi Arabia. The main opposition Maldivian Democratic Party (MDP)-led coalition plans to hold a related protest on 24 March; the timing and venue of the demonstration are currently not known. Protests are likely to be held in Male and Faafu around the scheduled visit of Saudi King Salman bin Abdulaziz al Saud to Male in March; the exact date of the visit is yet to be confirmed.",
+        "modified": "2017-03-13T04:29:59Z",
+        "category": "Travel : Protest, rallies and associated violence; "
+      }
+    },
+    {
+      "country": "NZ",
+      "lang": "en",
+      "name": "New Zealand",
+      "update": {
+        "href": "http://www.travelsecurity.com/Page.aspx?pg=2724",
+        "title": "Residual travel disruption likely in coming days after rainfall, flooding eases",
+        "summary": "Members in New Zealand should expect residual travel disruption in the coming days as heavy rainfall and associated flooding eases, including in and around Auckland (North Island). The New Zealand Met Service forecast that conditions would begin improving on 13 March, after parts of North Island were inundated by sustained heavy rainfall from 8 March. Parts of Auckland experienced flash flooding during a severe storm on 12 March; several roads in the Auckland region remained closed early on 13 March, while 3,000 homes were affected by power cuts. State Highway 1 near Kaikoura (South Island) also remained blocked by floodwater.",
+        "modified": "2017-03-13T00:24:03Z",
+        "category": "Travel : Travel disruption; Travel : Natural disasters; "
+      }
+    },
+    {
+      "country": "PG",
+      "lang": "en",
+      "name": "Papua New Guinea",
+      "update": {
+        "href": "http://www.travelsecurity.com/Page.aspx?pg=2860",
+        "title": "Hela province: Potential for further tribal violence persists ahead of June elections",
+        "summary": "Members in Hela province (Highlands region) should remain alert to the potential for further violence involving local tribes as tensions are likely to remain elevated ahead of the general elections in June. A security operation involving both police and military personnel is ongoing in Hela to maintain law and order. No major violence has been reported since the deployment, particularly in and around the provincial capital Tari. However, the potential for indiscriminate attacks remains, which could pose significant incidental risks to bystanders.",
+        "modified": "2017-03-13T05:39:30Z",
+        "category": "Travel : Communal, sectarian and religious violence; Travel : Crime; "
+      }
+    },
+    {
+      "country": "SO",
+      "lang": "en",
+      "name": "Somalia",
+      "update": {
+        "href": "http://www.travelsecurity.com/Page.aspx?pg=3234",
+        "title": "SPECIAL ADVISORY: Mogadishu: Explosion reported near hotel on Makkah Almukarramah Avenue; avoid area",
+        "summary": "An explosion is reported to have occurred on 13 March near the Wehelie Hotel on Makkah Almukarramah Avenue in the capital Mogadishu. There are unconfirmed reports of ongoing gunfire in the area. The incident follows another explosion earlier in the day near the Halane military base, located close to the capital's Aden Adde International Airport (MGQ). More to follow.",
+        "modified": "2017-03-13T07:46:24Z",
+        "category": "Travel; "
+      }
+    },
+    {
+      "country": "KR",
+      "lang": "en",
+      "name": "South Korea",
+      "update": {
+        "href": "http://www.travelsecurity.com/Page.aspx?pg=2129",
+        "title": "Seoul: Expect, avoid further demonstrations following impeachment of president (Revised)",
+        "summary": "Members in the capital Seoul should anticipate further demonstrations in the coming weeks after the Constitutional Court on 10 March upheld the impeachment of President Park Geun-hye for her alleged involvement in an influence-peddling scandal. Anti-Park groups are planning further rallies on 25 March and 15 April at Gwanghwamun Square to demand further investigations into the ousted president. Precedent indicates that protesters are likely to march towards the presidential Blue House during the rallies. While there is currently no information on forthcoming protests by pro-Park groups, there remains potential for such events, given their strong opposition to the impeachment.",
+        "modified": "2017-03-13T02:22:06Z",
+        "category": "Travel : Protest, rallies and associated violence; "
+      }
+    },
+    {
+      "country": "TR",
+      "lang": "en",
+      "name": "Turkey",
+      "update": {
+        "href": "http://www.travelsecurity.com/Page.aspx?pg=3591",
+        "title": "Ankara, Istanbul: Avoid vicinity of Dutch diplomatic missions due to potential protests; Dutch consulate closed on 13 March (Revised)",
+        "summary": "Members in the capital Ankara and the commercial capital Istanbul (Istanbul province) should plan journeys bypassing Dutch diplomatic facilities in the coming days due to the potential for protests. The authorities restricted entry to and exit from the Dutch diplomatic facilities in Ankara and Istanbul, citing security reasons following protests at these sites on 11 and 12 March; the Dutch consulate in Istanbul subsequently announced that it would be closed on 13 March. The demonstrations took place after the Netherlands denied permission to the Turkish foreign minister to visit Rotterdam to campaign for a 16 April referendum on constitutional reforms.",
+        "modified": "2017-03-13T00:27:11Z",
+        "category": "Travel : International relations; Travel : Protest, rallies and associated violence; "
+      }
+    },
+    {
+      "country": "GB",
+      "lang": "en",
+      "name": "United Kingdom",
+      "update": {
+        "href": "http://www.travelsecurity.com/Page.aspx?pg=3693",
+        "title": "Expect disruption to Merseyrail, Northern Rail, Southern Rail services on 13 March during planned strike by staff ",
+        "summary": "Members intending to use Merseyrail, Northern Rail and Southern Rail services on 13 March should expect travel disruption due to a planned 24-hour strike by staff associated with the RMT transport union. The rail operators will be running a reduced serviceduring the work stoppage. The Gatwick Express service, to and from the capital London's Gatwick Airport (LGW), will operate normally. The RMT union announced the industrial action following plans by the rail operators to bring in more driver-only-operated (DOO) trains.",
+        "modified": "2017-03-13T00:06:14Z",
+        "category": "Travel : Travel disruption; Travel : Protest, rallies and associated violence; "
+      }
+    },
+    {
+      "country": "US",
+      "lang": "en",
+      "name": "United States",
+      "update": {
+        "href": "http://www.travelsecurity.com/Page.aspx?pg=3710",
+        "title": "North-eastern, Mid-Atlantic states: Reconfirm travel arrangements due to disruption from winter storm Stella",
+        "summary": "Members in or travelling to north-eastern or Mid-Atlantic states on 13-14 March should maintain flexible itineraries because of widespread travel disruption caused by winter storm Stella. Winter weather warnings and advisories are in effect for the states of Connecticut, Massachusetts, Maine, New Jersey, New Hampshire, New York, Pennsylvania, Rhode Island, and Vermont, as well as parts of Delaware, Illinois, Indiana, Iowa, Maryland, Michigan, Minnesota, North Dakota, South Dakota, West Virginia and Wisconsin. Hundreds of flights have been delayed and cancelled due to the storm, though snowfall is expected to diminish by late on 14 March.",
+        "modified": "2017-03-13T00:06:08Z",
+        "category": "Travel : Travel disruption; Travel : Natural disasters; "
+      }
+    },
+    {
+      "country": "VE",
+      "lang": "en",
+      "name": "Venezuela",
+      "update": {
+        "href": "http://www.travelsecurity.com/Page.aspx?pg=3812",
+        "title": "Caracas, other urban centres: Avoid protests by university employees until 14 March",
+        "summary": "Members undertaking essential travel to the capital Caracas and other major urban centres until 14 March should avoid all demonstrations by employees of the Central University of Venezuela (UCV). The workers have called for a rally at 09.00 (local time) on 13 March to the education ministry building in Caracas, and related protests on 14 March at universities across the country. The action is related to a dispute with the government over a collective labour agreement.",
+        "modified": "2017-03-13T00:06:16Z",
+        "category": "Travel : Protest, rallies and associated violence; "
+      }
+    }
+  ]
+}

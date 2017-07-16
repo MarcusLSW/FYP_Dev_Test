@@ -1,7 +1,6 @@
 package com.xmppserver.model.entities;
 
 import java.util.ArrayList;
-import java.util.UUID;
 
 /**
  * Created by Marcus on 13-Jul-17.

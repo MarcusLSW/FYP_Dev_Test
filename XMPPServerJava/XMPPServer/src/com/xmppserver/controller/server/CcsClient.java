@@ -245,6 +245,11 @@ public class CcsClient implements StanzaListener {
 	 */
 	private void handleAckReceipt(Map<String, Object> jsonMap) {
 		// TODO: handle the ACK in the proper way
+        // Unsure on what to do with the ack message
+
+		String form = (String) jsonMap.get("from");
+		String message_id = (String) jsonMap.get("message_id");
+		String message_type = (String) jsonMap.get("message_type");
 	}
 
 	/**
@@ -316,6 +321,7 @@ public class CcsClient implements StanzaListener {
 		// TODO: Resend the message
 		logger.log(Level.INFO, "Server error: " + jsonMap.get("error") + " -> " + jsonMap.get("error_description"));
 
+
 	}
 
 	private void handleUnrecoverableFailure(Map<String, Object> jsonMap) {
@@ -338,7 +344,8 @@ public class CcsClient implements StanzaListener {
 		try {
 			connection.sendStanza(request);
 		} catch (NotConnectedException | InterruptedException e) {
-			logger.log(Level.INFO, "The packet could not be sent due to a connection problem. Packet: {}", request.toXML());
+			logger.log(Level.INFO,
+                    "The packet could not be sent due to a connection problem. Packet: {}", request.toXML());
 		}
 	}
 
