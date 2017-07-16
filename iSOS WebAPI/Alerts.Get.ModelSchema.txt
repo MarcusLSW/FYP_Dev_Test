@@ -1,0 +1,85 @@
+{
+  "modified": "2017-03-13T08:16:55.476Z",
+  "globals": [
+    {
+      "lang": "string",
+      "updates": [
+        {
+          "href": "string",
+          "title": "string",
+          "summary": "string",
+          "created": "2017-03-13T08:16:55.477Z",
+          "modified": "2017-03-13T08:16:55.477Z",
+          "categories": [
+            {
+              "primary": "string",
+              "sub": "string"
+            }
+          ],
+          "long": 0,
+          "lat": 0,
+          "id": 0,
+          "version": 0,
+          "specialadvisory": true,
+          "body": "string"
+        }
+      ]
+    }
+  ],
+  "regions": [
+    {
+      "id": 0,
+      "lang": "string",
+      "name": "string",
+      "updates": [
+        {
+          "href": "string",
+          "title": "string",
+          "summary": "string",
+          "created": "2017-03-13T08:16:55.478Z",
+          "modified": "2017-03-13T08:16:55.478Z",
+          "categories": [
+            {
+              "primary": "string",
+              "sub": "string"
+            }
+          ],
+          "long": 0,
+          "lat": 0,
+          "id": 0,
+          "version": 0,
+          "specialadvisory": true,
+          "body": "string"
+        }
+      ]
+    }
+  ],
+  "countries": [
+    {
+      "country": "string",
+      "lang": "string",
+      "name": "string",
+      "updates": [
+        {
+          "href": "string",
+          "title": "string",
+          "summary": "string",
+          "created": "2017-03-13T08:16:55.479Z",
+          "modified": "2017-03-13T08:16:55.479Z",
+          "categories": [
+            {
+              "primary": "string",
+              "sub": "string"
+            }
+          ],
+          "long": 0,
+          "lat": 0,
+          "id": 0,
+          "version": 0,
+          "specialadvisory": true,
+          "body": "string"
+        }
+      ]
+    }
+  ]
+}
