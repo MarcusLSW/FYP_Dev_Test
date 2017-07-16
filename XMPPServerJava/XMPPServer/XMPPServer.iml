@@ -41,9 +41,13 @@
         <SOURCES />
       </library>
     </orderEntry>
-    <orderEntry type="library" name="smack" level="project" />
     <orderEntry type="library" name="smack-android-4.2.0-javadoc" level="project" />
     <orderEntry type="library" name="com.google.code.gson:gson:2.8.1" level="project" />
     <orderEntry type="library" name="org.activecomponents.jadex:jadex-android-xmlpull:3.0.69" level="project" />
+    <orderEntry type="library" name="Java EE 6-Java EE 6" level="project" />
+    <orderEntry type="library" name="org.jxmpp:jxmpp-stringprep-libidn:0.5.0" level="project" />
+    <orderEntry type="library" name="org.jxmpp:jxmpp-core:0.5.0" level="project" />
+    <orderEntry type="library" name="org.jxmpp:jxmpp-jid:0.5.0" level="project" />
+    <orderEntry type="library" name="com.nimbusds:nimbus-jose-jwt:4.39.2" level="project" />
   </component>
 </module>

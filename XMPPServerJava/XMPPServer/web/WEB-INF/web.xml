@@ -13,8 +13,26 @@
         <servlet-class>com.sun.xml.ws.transport.http.servlet.WSServlet</servlet-class>
         <load-on-startup>1</load-on-startup>
     </servlet>
+    <servlet>
+        <servlet-name>LoginServlet</servlet-name>
+        <servlet-class>com.xmppserver.servlets.LoginServlet</servlet-class>
+    </servlet>
+    <servlet>
+        <servlet-name>ChatGroupServlet</servlet-name>
+        <servlet-class>com.xmppserver.servlets.ChatGroupServlet</servlet-class>
+    </servlet>
+    
+    
     <servlet-mapping>
         <servlet-name>WSServlet</servlet-name>
         <url-pattern>/com.xmppserver.services/*</url-pattern>
+    </servlet-mapping>
+    <servlet-mapping>
+        <servlet-name>ChatGroupServlet</servlet-name>
+        <url-pattern>/com.xmppserver.services/chatGroupServlet</url-pattern>
+    </servlet-mapping>
+    <servlet-mapping>
+        <servlet-name>LoginServlet</servlet-name>
+        <url-pattern>/loginServlet</url-pattern>
     </servlet-mapping>
 </web-app>

@@ -1,8 +1,7 @@
 package com.xmppserver.services.impl;
 
 
-import com.xmppserver.model.dao.DAOManager;
-import com.xmppserver.model.dao.GroupChatDAO;
+import com.xmppserver.model.dao.DAOFactory;
 import com.xmppserver.model.entities.CcsInMessage;
 import com.xmppserver.model.entities.CcsOutMessage;
 import com.xmppserver.controller.server.CcsClient;
@@ -44,7 +43,7 @@ public class MessageProcessor implements PayloadProcessor {
 
         CcsClient client = CcsClient.getInstance();
 
-		GroupChat group = DAOManager.getGroupChatDAO().getGroupChat(groupId);
+		GroupChat group = DAOFactory.getDAOFactory(1).getGroupChatDAO().getGroupChat(groupId);
 		ArrayList<String> memberList = group.getMembers();
 
 		String message = messagePayLoad.get(Util.PAYLOAD_ATTRIBUTE_MESSAGE);

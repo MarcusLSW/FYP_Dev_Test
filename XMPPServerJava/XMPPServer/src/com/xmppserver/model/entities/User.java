@@ -15,9 +15,10 @@ public class User {
     private boolean isMale;
 
     //For all regId for user's phones
-    private ArrayList<UUID> regId;
+    private ArrayList<String> regId;
 
-    public User(String email, String name, int contactNum, String regionCode, boolean isAdmin, boolean isMale, ArrayList<UUID> regId) {
+    public User(String email, String name, int contactNum, String regionCode,
+                boolean isAdmin, boolean isMale, ArrayList<String> regId) {
         this.email = email;
         this.name = name;
         this.contactNum = contactNum;
@@ -51,7 +52,7 @@ public class User {
         return isMale;
     }
 
-    public ArrayList<UUID> getRegId() {
+    public ArrayList<String> getRegId() {
         return regId;
     }
 
@@ -79,11 +80,11 @@ public class User {
         isMale = male;
     }
 
-    public void setRegId(ArrayList<UUID> regId) {
+    public void setRegId(ArrayList<String> regId) {
         this.regId = regId;
     }
 
-    public void addRegId(UUID regId){
+    public void addRegId(String regId){
         this.regId.add(regId);
     }
 

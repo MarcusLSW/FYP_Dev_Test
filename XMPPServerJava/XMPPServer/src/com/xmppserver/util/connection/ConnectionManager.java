@@ -11,7 +11,7 @@ import java.util.logging.Logger;
  * It also has a utility method that close connections, statements and
  * resultsets.
  *
- * @author YASET
+ * Created by Marcus on 13-Jul-17.
  */
 public class ConnectionManager {
 
@@ -38,15 +38,33 @@ public class ConnectionManager {
             String port = props.getProperty("db.port");
             String dbName = props.getProperty("db.name");
             dbUser = props.getProperty("db.user");
+            dbPassword = props.getProperty("db.password");
 
-            String username = System.getProperty("os.name");
-            if (username.equals("Linux")) {
-                // in production environment, use aws.db.password
-                dbPassword = props.getProperty("aws.db.password");
-            } else {
-                // in local environment, use db.password
-                dbPassword = props.getProperty("db.password");
-            }
+            dbURL = "jdbc:mysql://" + host + ":" + port + "/" + dbName;
+        } catch (Exception ex) {
+            // unable to load properties file
+            String message = "Unable to load '" + PROPS_FILENAME + "'.";
+
+            System.out.println(message);
+            Logger.getLogger(ConnectionManager.class.getName()).log(Level.SEVERE, message, ex);
+            throw new RuntimeException(message, ex);
+        }
+    }
+
+    private static void readActiveDatabaseProperties() {
+        try {
+            // Retrieve properties from connection.properties via the CLASSPATH
+            // WEB-INF/classes is on the CLASSPATH
+            InputStream is = ConnectionManager.class.getResourceAsStream(PROPS_FILENAME);
+            Properties props = new Properties();
+            props.load(is);
+
+            // load database connection details
+            String host = props.getProperty("db.host");
+            String port = props.getProperty("db.port");
+            String dbName = props.getProperty("db.active");
+            dbUser = props.getProperty("db.user");
+            dbPassword = props.getProperty("db.password");
 
             dbURL = "jdbc:mysql://" + host + ":" + port + "/" + dbName;
         } catch (Exception ex) {
@@ -72,13 +90,15 @@ public class ConnectionManager {
         }
     }
 
+
+
     /**
      * Gets a connection to the database.
      *
      * @return the connection
      * @throws SQLException if an error occurs when connecting
      */
-    public static Connection getConnection() throws SQLException {
+    public static Connection getConnection(boolean isAuthen) throws SQLException {
         String message = "dbURL: " + dbURL
                 + "  , dbUser: " + dbUser
                 + "  , dbPassword: " + dbPassword;
@@ -86,6 +106,10 @@ public class ConnectionManager {
 
         return DriverManager.getConnection(dbURL, dbUser, dbPassword);
 
+    }
+
+    public static Connection getConnection() throws SQLException {
+        return getConnection(false);
     }
 
     /**
