@@ -49,5 +49,6 @@
     <orderEntry type="library" name="org.jxmpp:jxmpp-core:0.5.0" level="project" />
     <orderEntry type="library" name="org.jxmpp:jxmpp-jid:0.5.0" level="project" />
     <orderEntry type="library" name="com.nimbusds:nimbus-jose-jwt:4.39.2" level="project" />
+    <orderEntry type="library" name="Java EE 6-Java EE 6" level="project" />
   </component>
 </module>
